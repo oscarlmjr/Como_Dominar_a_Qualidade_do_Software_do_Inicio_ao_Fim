@@ -1,0 +1,13 @@
+brazilian software testing qualifications board
+https://bcr.bstqb.org.br/docs/syllabus_ctfl_4.0br.pdf
+
+BDD in Action: Behavior-Driven Development for the Whole Software Lifecycle [With eBook]
+https://www.amazon.com.br/BDD-Action-Behavior-Driven-Development-Lifecycle/dp/161729165X
+
+
+Técnicas de Análise de Riscos de Processos Industriais
+https://www.amazon.com.br/T%C3%A9cnicas-An%C3%A1lise-Riscos-Processos-Industriais-ebook/dp/B089SRHVRD
+
+
+DevOps monitoring
+https://www.dynatrace.com/monitoring/solutions/devops/
